@@ -1,0 +1,69 @@
+---
+title: "Project Proposal"
+format: pdf 
+ # pdf:
+   # documentclass: book
+editor: visual
+---
+
+# Research Question
+
+What is the environmental impact of transporting oil out of the Uintah Basin? 
+
+# Relevence
+
+Why is this important?
+
+### Transportation emissions are bad for the environment
+
+### Utah has bad air quality
+
+# Literature Review
+
+What has already been done? 
+
+### Other places besides Uintah Basin
+
+### Utah and Uintah Basin
+
+Something like my question hasn't been studied for the Uintah Basin
+
+# Methodology
+
+What methods and data will I use to address the quesiton?
+
+# Conclusion
+
+Because of the lack of research on this specific topic, the project should be done. 
+
+
+Tak a look at this random graph I made :) 
+```{r}
+x = c(1,2,3,4,5)
+y = c(9,4,1,4,9)
+
+plot(x,y)
+
+```
+
+
+# Example Code
+
+Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
+
+## Running Code
+
+When you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:
+
+```{r}
+1 + 1
+```
+
+You can add options to executable code like this
+
+```{r}
+#| echo: false
+2 * 2
+```
+
+The `echo: false` option disables the printing of code (only output is displayed).
